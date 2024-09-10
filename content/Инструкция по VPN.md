@@ -1,6 +1,6 @@
 ---
 title: Инструкция по VPN
-share: "true"
+share: true
 ---
 
 1. Скачиваем приложение AmneziaVPN
