@@ -1,6 +1,14 @@
 ---
-title: Welcome to Quartz
+title: Опубликованные заметки Phil Obsidian
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Привет, друг 👋! Здесь ты можешь ознакомиться с моими заметками из Obsidian на темы:
+
+- Frontend разработка (в перспективе, надеюсь, fullstack)
+- Hardware
+- AI
+- Книги
+- Обучение
+- Хоккей с шайбой
+
+Использовался [Quartz](https://quartz.jzhao.xyz) для создания.
