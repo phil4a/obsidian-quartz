@@ -22,9 +22,9 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Nunito",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        header: "Ysabeau SC",
+        body: "Raleway",
+        code: "Fira Code",
       },
       colors: {
         lightMode: {
