@@ -1,6 +1,6 @@
 ---
 share: true
-title: Инструкция по VPN
+title: Инструкция по VPN Buro11
 ---
 
 1. Скачиваем приложение AmneziaVPN
