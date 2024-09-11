@@ -4,7 +4,10 @@ title: Инструкция по VPN
 ---
 
 1. Скачиваем приложение AmneziaVPN
-2. Нажимаем "У меня есть данные для подключения"
+	* Apple:  https://apps.apple.com/us/app/amneziavpn/id1600529900
+	* Android: https://play.google.com/store/apps/details?id=org.amnezia.vpn&hl=ru
+	* Macos: 
+1. Нажимаем "У меня есть данные для подключения"
    ![Pasted image 20240910232941](./Pasted%20image%2020240910232941.png)
 3. Нажимаем настроить свой сервер
    ![Pasted image 20240910233021](./Pasted%20image%2020240910233021.png)
