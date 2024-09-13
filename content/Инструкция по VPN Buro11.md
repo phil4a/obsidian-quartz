@@ -9,9 +9,9 @@ title: Инструкция по VPN Buro11
 	* Android: https://play.google.com/store/apps/details?id=org.amnezia.vpn&hl=ru
 	* Windows: https://github.com/amnezia-vpn/amnezia-client/releases/download/4.7.0.0/AmneziaVPN_4.7.0.0_x64.exe
 1. Нажимаем "У меня есть данные для подключения"
-   ![Pasted image 20240910232941](./Pasted%20image%2020240910232941.png)
+   ![ 400](_resources/Pasted%20image%2020240910232941.png)
 3. Нажимаем настроить свой сервер
-   ![Pasted image 20240910233021](./Pasted%20image%2020240910233021.png)
+   ![ 400](_resources/Pasted%20image%2020240910233021.png)
 4. Данные для сервера Buro11 VPN:
    - IP: 31.172.77.136
    - Имя: root
@@ -19,7 +19,7 @@ title: Инструкция по VPN Buro11
 
      Нажимаем продолжить
 5. На следующем шаге выбираем "Выберите VNP-протокол" - продолжить
-   ![Pasted image 20240910233502](./Pasted%20image%2020240910233502.png)
+   ![ 400](_resources/Pasted%20image%2020240910233502.png)
 6. По умолчанию выбираем AmneziaWG - порт любой
 7. Установить
 8. После процесса установки жмем подключиться.
@@ -30,10 +30,10 @@ title: Инструкция по VPN Buro11
 Если интернет не работает, но статус подключения "Подключено", то рекомендуется сменить протокол с AmneziaWG на "OpenVPN over Cloak" или "XRAY"
 
 1. Открываем клиент AmneziaVPN, нажимаем на название сервера:
-![Pasted image 20240911123859.png](./Pasted%20image%2020240911123859.png)
+![ 400](Pasted%20image%2020240911123859.png)
 
 2. Нажимаем на название протокола:
-![Pasted image 20240911123953.png](./Pasted%20image%2020240911123953.png)
+![ 400](Pasted%20image%2020240911123953.png)
 3. Принимаем предложенный порт
 4. Сворачиваем шторку настроек, подключаемся.
-![Pasted image 20240911124551.png](./Pasted%20image%2020240911124551.png)
+![ 400](Pasted%20image%2020240911124551.png)
