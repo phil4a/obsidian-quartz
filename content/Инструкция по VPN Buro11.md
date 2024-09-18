@@ -9,9 +9,9 @@ title: Инструкция по VPN Buro11
 	* Android: https://play.google.com/store/apps/details?id=org.amnezia.vpn&hl=ru
 	* Windows: https://github.com/amnezia-vpn/amnezia-client/releases/download/4.7.0.0/AmneziaVPN_4.7.0.0_x64.exe
 1. Нажимаем "У меня есть данные для подключения"
-   ![ 400](_resources/Pasted%20image%2020240910232941.png)
+   ![Pasted image 20240918165222](./Pasted%20image%2020240918165222.png)
 3. Нажимаем настроить свой сервер
-   ![ 400](_resources/Pasted%20image%2020240910233021.png)
+   ![Pasted image 20240910233021.png](./Pasted%20image%2020240910233021.png)
 4. Данные для сервера Buro11 VPN:
    - IP: 31.172.77.136
    - Имя: root
@@ -19,7 +19,7 @@ title: Инструкция по VPN Buro11
 
      Нажимаем продолжить
 5. На следующем шаге выбираем "Выберите VNP-протокол" - продолжить
-   ![ 400](_resources/Pasted%20image%2020240910233502.png)
+  ![Pasted image 20240918165412](./Pasted%20image%2020240918165412.png)
 6. По умолчанию выбираем AmneziaWG - порт любой
 7. Установить
 8. После процесса установки жмем подключиться.
